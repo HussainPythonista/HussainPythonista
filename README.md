@@ -1,33 +1,74 @@
-# 💫 About Me:
-## 👋 Hi, I'm Mohamed<br><br>A Full Stack Developer and AI Engineer focused on building scalable, production-grade systems and AI-powered products.<br><br>---<br><br>
-## 🔭 I’m currently working on<br><br>
-- Full Stack web applications (React, Laravel, Spring Boot)<br>
-- AI-powered products and intelligent system integrations<br>
-- Scalable backend systems, APIs, and microservices<br>
-- Cloud-native architectures with performance and cost optimization in mind<br><br>
-## 👯 I’m looking to collaborate on<br><br>
-- Open-source Full Stack projects<br>
-- AI / Machine Learning–driven applications<br>
-- SaaS platforms and startup-grade products<br>
-- High-impact tools that solve real-world problems<br><br>
-## 🤝 I’m looking for help with<br><br>
-- Advanced system design and scalability patterns<br>
-- Production-grade AI model deployment (MLOps)<br>
-- Cloud architecture, DevOps, and cost optimization<br>
-- Designing fault-tolerant, high-availability systems<br><br>
-## 🌱 I’m currently learning<br><br>
-- Microservices architecture and distributed systems<br>
-- Advanced system design and backend optimization<br>
-- AI model deployment, inference optimization, and monitoring<br>
-- Cloud platforms and infrastructure automation<br><br>
-## 💬 Ask me about<br><br>
-- Full Stack development (Frontend + Backend)<br>
-- REST APIs, Microservices, and System Design<br>
-- AI integrations and applied machine learning<br>
-- Backend performance tuning and scalability<br><br>
+## 👋 Hi, I'm Mohamed
 
-## ⚡ Fun fact<br><br>
-    I enjoy breaking down complex systems into simple, scalable solutions—and rebuilding them better.
+A Full Stack Developer and AI Engineer focused on building scalable, production-grade systems and AI-powered products.
+
+---
+
+## 🔭 I’m currently working on
+
+* A **freelancing project: Employee Tracking & Workforce Management System**
+
+  * Real-time employee **location tracking** with geofencing-based **check-in and check-out**
+  * Role-based workflows for **Technicians, Supervisors, and Project Managers**
+  * Attendance validation based on exact job-site presence
+  * Secure backend APIs and scalable data models
+  * Designed for operational transparency, accountability, and field efficiency
+
+* Full Stack web applications (React, Spring Boot,React Native, MongoDB)
+
+* AI-powered products and intelligent system integrations
+
+* Scalable backend systems, APIs, and microservices
+
+---
+
+## 👯 I’m looking to collaborate on
+
+* Open-source Full Stack projects
+* AI / Machine Learning–driven applications
+* SaaS platforms and startup-grade products
+* High-impact tools that solve real-world problems
+
+---
+
+## 🤝 I’m looking for help with
+
+* Advanced system design and scalability patterns
+* Production-grade AI model deployment (MLOps)
+* Cloud architecture, DevOps, and cost optimization
+* Designing fault-tolerant, high-availability systems
+
+---
+
+## 🎓 Education & Academic Work
+
+* Master’s degree in **Artificial Intelligence & Machine Learning**
+* Thesis focused on **Recommendation Systems**
+
+  * Designed and implemented a system that recommends products based on **user viewing and interaction patterns**
+  * Worked with user behavior analysis, similarity modeling, and ranking strategies
+  * Emphasis on real-world applicability and scalable recommendation logic
+
+## 🌱 I’m currently learning
+
+* Microservices architecture and distributed systems
+* Advanced system design and backend optimization
+* AI model deployment, inference optimization, and monitoring
+* Cloud platforms and infrastructure automation
+
+
+## 💬 Ask me about
+
+* Full Stack development (Frontend + Backend)
+* REST APIs, Microservices, and System Design
+* AI integrations and applied machine learning
+* Backend performance tuning and scalability
+
+---
+
+## ⚡ Fun fact
+
+I enjoy breaking down complex systems into simple, scalable solutions—and rebuilding them better.
 
 
 ## 🌐 Socials:
@@ -89,20 +130,14 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HussainPythonista&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HussainPythonista&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HussainPythonista/HussainPythonista/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HussainPythonista/HussainPythonista/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HussainPythonista/HussainPythonista/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=HussainPythonista&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
