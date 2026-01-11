@@ -129,15 +129,3 @@ I enjoy breaking down complex systems into simple, scalable solutions—and rebu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
 </div>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HussainPythonista/HussainPythonista/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HussainPythonista/HussainPythonista/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HussainPythonista/HussainPythonista/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
----
-[![](https://visitcount.itsvg.in/api?id=HussainPythonista&icon=1&color=1)](https://visitcount.itsvg.in)
-
