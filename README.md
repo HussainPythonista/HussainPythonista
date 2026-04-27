@@ -1,131 +1,82 @@
-## 👋 Hi, I'm Mohamed
+# Mohamed Kalanthar Hussain
 
-A Full Stack Developer and AI Engineer focused on building scalable, production-grade systems and AI-powered products.
+**Full Stack Engineer** · React · Spring Boot · MongoDB · Cloud · AI
 
----
-
-## 🔭 I’m currently working on
-
-* A **freelancing project: Employee Tracking & Workforce Management System**
-
-  * Real-time employee **location tracking** with geofencing-based **check-in and check-out**
-  * Role-based workflows for **Technicians, Supervisors, and Project Managers**
-  * Attendance validation based on exact job-site presence
-  * Secure backend APIs and scalable data models
-  * Designed for operational transparency, accountability, and field efficiency
-
-* Full Stack web applications (React, Spring Boot,React Native, MongoDB)
-
-* AI-powered products and intelligent system integrations
-
-* Scalable backend systems, APIs, and microservices
+Building production-grade systems that scale. Currently based in Riyadh, targeting cloud-native engineering roles in Germany.
 
 ---
 
-## 👯 I’m looking to collaborate on
+## 🔭 Current Project
 
-* Open-source Full Stack projects
-* AI / Machine Learning–driven applications
-* SaaS platforms and startup-grade products
-* High-impact tools that solve real-world problems
+**Employee Tracking & Workforce Management System**
 
----
+A full-stack, field-operations platform built for real-world enterprise use:
 
-## 🤝 I’m looking for help with
-
-* Advanced system design and scalability patterns
-* Production-grade AI model deployment (MLOps)
-* Cloud architecture, DevOps, and cost optimization
-* Designing fault-tolerant, high-availability systems
+- 📍 Real-time employee location tracking with geofencing-based check-in/check-out
+- 🔐 Role-based access for Technicians, Supervisors, and Project Managers
+- ⚙️ REST APIs with Spring Boot, aggregation pipelines in MongoDB, caching with Caffeine → Redis
+- 🖥️ React + TypeScript frontend with modular component architecture
+- 📦 Designed for scalability, operational transparency, and field accountability
 
 ---
 
-## 🎓 Education & Academic Work
+## 🛠️ Tech Stack
 
-* Master’s degree in **Artificial Intelligence & Machine Learning**
-* Thesis focused on **Recommendation Systems**
+### Frontend
+[![typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![react](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
+[![html](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![css](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-  * Designed and implemented a system that recommends products based on **user viewing and interaction patterns**
-  * Worked with user behavior analysis, similarity modeling, and ranking strategies
-  * Emphasis on real-world applicability and scalable recommendation logic
+### Backend
+[![java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![python](https://skillicons.dev/icons?i=py)](https://www.python.org)
 
-## 🌱 I’m currently learning
+### Data & Messaging
+[![mongodb](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![postgresql](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org)
 
-* Microservices architecture and distributed systems
-* Advanced system design and backend optimization
-* AI model deployment, inference optimization, and monitoring
-* Cloud platforms and infrastructure automation
+### Cloud & DevOps
+[![aws](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 
-
-## 💬 Ask me about
-
-* Full Stack development (Frontend + Backend)
-* REST APIs, Microservices, and System Design
-* AI integrations and applied machine learning
-* Backend performance tuning and scalability
+### AI / ML
+[![tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org)
+[![pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 
 ---
 
-## ⚡ Fun fact
+## 🎓 Background
 
-I enjoy breaking down complex systems into simple, scalable solutions—and rebuilding them better.
+MSc in Artificial Intelligence & Machine Learning — thesis on recommendation systems using user interaction and behavior modeling.
 
+2.5+ years building full-stack applications across enterprise and product contexts.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/momo_mohamed_h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-kalanthar-hussain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/Ai_Mohamed97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jaheerkalanthar816@hotmail.com) 
+---
 
-# 💻 Tech Stack:
-###
+## 🌱 Currently Deepening
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-</div>
+- Microservices architecture & distributed systems design
+- Cloud-native deployment (Docker, Kubernetes, AWS)
+- AI model integration into production backend systems
+- System design for high-availability and fault tolerance
 
+---
+
+## 💬 Ask Me About
+
+Full-stack development · REST API design · MongoDB aggregation · Spring Boot · React architecture · AI integrations
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-kalanthar-hussain)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/Ai_Mohamed97)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jaheerkalanthar816@hotmail.com)
