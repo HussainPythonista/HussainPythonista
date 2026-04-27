@@ -41,7 +41,6 @@ A full-stack, field-operations platform built for real-world enterprise use:
 [![python](https://skillicons.dev/icons?i=py)](https://www.python.org)
 [![jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
 
-**Also working with:** LLM APIs (OpenAI, Anthropic) · LangChain · RAG pipelines · Prompt Engineering · Hugging Face · Recommendation Systems · NLP
 
 ### Data & Messaging
 [![mongodb](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
