@@ -1,8 +1,8 @@
 # Mohamed Kalanthar Hussain
 
-**Full Stack Engineer** · React · Spring Boot · MongoDB · Cloud · AI
+**Full Stack & AI Engineer** · React · Spring Boot · MongoDB · Cloud · LLMs
 
-Building production-grade systems that scale. Currently based in Riyadh, targeting cloud-native engineering roles in Germany.
+Building production-grade systems and AI-powered products that scale. Currently based in Riyadh, targeting cloud-native AI engineering roles in Germany.
 
 ---
 
@@ -16,6 +16,7 @@ A full-stack, field-operations platform built for real-world enterprise use:
 - 🔐 Role-based access for Technicians, Supervisors, and Project Managers
 - ⚙️ REST APIs with Spring Boot, aggregation pipelines in MongoDB, caching with Caffeine → Redis
 - 🖥️ React + TypeScript frontend with modular component architecture
+- 🤖 AI integrations planned: intelligent reporting, anomaly detection, LLM-powered workflows
 - 📦 Designed for scalability, operational transparency, and field accountability
 
 ---
@@ -34,6 +35,14 @@ A full-stack, field-operations platform built for real-world enterprise use:
 [![spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![python](https://skillicons.dev/icons?i=py)](https://www.python.org)
 
+### AI & Machine Learning
+[![tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org)
+[![pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+[![jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
+
+**Also working with:** LLM APIs (OpenAI, Anthropic) · LangChain · RAG pipelines · Prompt Engineering · Hugging Face · Recommendation Systems · NLP
+
 ### Data & Messaging
 [![mongodb](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 [![postgresql](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
@@ -46,32 +55,28 @@ A full-stack, field-operations platform built for real-world enterprise use:
 [![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 
-### AI / ML
-[![tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org)
-[![pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-
 ---
 
 ## 🎓 Background
 
 MSc in Artificial Intelligence & Machine Learning — thesis on recommendation systems using user interaction and behavior modeling.
 
-2.5+ years building full-stack applications across enterprise and product contexts.
+2.5+ years building full-stack applications across enterprise and product contexts, with a focus on integrating AI capabilities into backend systems.
 
 ---
 
 ## 🌱 Currently Deepening
 
+- LLM integration into production systems (RAG, tool use, agents)
+- AI model deployment & inference optimization (MLOps)
 - Microservices architecture & distributed systems design
 - Cloud-native deployment (Docker, Kubernetes, AWS)
-- AI model integration into production backend systems
-- System design for high-availability and fault tolerance
 
 ---
 
 ## 💬 Ask Me About
 
-Full-stack development · REST API design · MongoDB aggregation · Spring Boot · React architecture · AI integrations
+Full-stack development · REST API design · MongoDB aggregation · Spring Boot · React architecture · LLM integrations · Recommendation systems · Applied ML
 
 ---
 
